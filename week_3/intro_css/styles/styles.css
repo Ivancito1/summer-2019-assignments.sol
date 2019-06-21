@@ -1,0 +1,16 @@
+#container{ 
+    width: 700px;
+    height: 400px;
+    background-color: aquamarine;
+
+}
+#header{
+    width: 500px;
+    height: 100px;
+    background-color:antiquewhite;
+}
+#main{
+    width: 300px;
+    height: 200px;
+    background-color:blue
+}
